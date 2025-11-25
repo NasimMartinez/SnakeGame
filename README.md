@@ -1,4 +1,4 @@
 # SnakeGame
 
-Writing snake in C++
+Writing snake in C++ <br/>
 Activity may vary as I am busy with school projects
